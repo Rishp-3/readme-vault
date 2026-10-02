@@ -93,10 +93,10 @@ design-name/
 
 | Workflow | Used in |
 |:--|:--|
-| 🐍 Snake animation | `animated` · `space` · `retro` |
-| 📊 Auto metrics | `technical` · `data-science` |
-| 🔥 Recent activity | `opensource` |
-| ✍️ Latest blog posts | `freelancer` · `designer` |
+| 🐍 Snake animation | `creative` · `animated` · `neon` · `retro` · `space` · `matrix` |
+| ⏱️ WakaTime weekly stats | `technical` · `student` · `data-science` · `terminal` · `blueprint` · `matrix` |
+| 🏆 GitHub trophies | `creative` · `hiring` · `opensource` · `student` · `freelancer` · `designer` · `retro` · `cyberpunk` · `pastel` · `matrix` · `luxury` |
+| 📈 Activity graph | `technical` · `opensource` · `space` · `matrix` |
 
 > ℹ️ Each design folder mirrors a complete profile repo, so `.github/workflows/` is already inside it.
 > Copy the **whole folder contents** to your profile repo root and the workflow works there.
