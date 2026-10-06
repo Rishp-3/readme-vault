@@ -1,135 +1,101 @@
-<div align="center">
+<p align="center">
+  <img src="hero.svg?v=1" alt="Rishabh — Frontend Developer" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d500f9,100:2979ff&height=240&section=header&text=RISHABH&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=⚡%20Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20UI%20Architect%20⚡&descAlignY=64&descSize=18" />
+<p align="center">
+  <img src="about-life.svg?v=1" alt="What I build and what I do for fun" width="100%"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=600&color=2979ff&center=true&vCenter=true&width=720&lines=%3E+whoami+%3A%3A+Rishabh+%7C+Frontend+Developer;%3E+specialization+%3A%3A+React+%2B+Responsive+UIs;%3E+current_mission+%3A%3A+Learning+Node.js+%26+Express;%3E+collaboration_mode+%3A%3A+%F0%9F%9F%A2+ACTIVE" />
+<p align="center">
+  <img src="stack.svg?v=1" alt="Tech stack" width="100%"/>
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rishp-3&style=for-the-badge&color=2979ff)
-![Followers](https://img.shields.io/github/followers/Rishp-3?style=for-the-badge&color=2979ff)
-
-</div>
-
----
-
-## ⚡ PROFILE
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 👤 **Name** | Rishabh |
-| 💼 **Role** | Frontend Developer |
-| 🔥 **Passion** | Building clean, responsive UIs |
-| 🌱 **Learning** | Node.js + Express (Backend) |
-| 🤝 **Open To** | Collaborations & Open Source |
-| 💬 **Ask Me** | Web Dev · React · UI/UX |
-
-</div>
+<p align="center">
+  <img src="id-dashboard.svg?v=1" alt="Developer ID badge and dashboard" width="100%"/>
+</p>
 
 ---
 
-## 🧑‍💻 ABOUT ME
+## 🚀 Projects
 
-<div align="center">
-
-> *I'm a self-taught frontend developer who fell in love with the web in 2023 and hasn't looked back since.*
-> React is my weapon of choice, Tailwind keeps me sane, and coffee keeps me alive. I gravitate toward UI-heavy projects and developer tools. Currently on a journey into the backend with Node.js + Express, because full-stack feels like the final boss. I believe great UI isn't just pretty pixels; it's empathy compiled into code.
-
-</div>
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [Project3](https://github.com/Rishp-3/Project3) | 21 React projects collection | React, Vite |
+| [Java-Project](https://github.com/Rishp-3/Java-Project) | Java learning repo — 27 modules, console projects | Java |
 
 ---
 
-## 🛣️ CURRENTLY LEARNING
+## 📊 Live stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rishp-3&theme=dark&hide_border=false&border=22d3ee&background=0D0E16&ring=22d3ee&fire=f472b6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b8da6&stroke=a78bfa" alt="Streak stats"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-✔%20In%20Progress-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-→
-![Express](https://img.shields.io/badge/Express-⟳%20Learning-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-→
-![MongoDB](https://img.shields.io/badge/MongoDB-⏳%20Next-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-→
-![REST APIs](https://img.shields.io/badge/REST%20APIs-⏳%20Next-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-→
-![Full Stack](https://img.shields.io/badge/Full%20Stack-🎯%20Goal-2979ff?style=for-the-badge&logo=stackshare&logoColor=white)
+<p align="center">
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&border_color=22d3ee&bg_color=0D0E16&title_color=22d3ee&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Most commit language"/>
+</p>
 
----
+### ⏱️ WakaTime weekly stats
 
-## 🧠 TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,git,github,c,java&theme=dark&perline=6"/>
-
-</div>
-
----
-
-## 🖥️ TERMINAL LOG
-
-<div align="center">
-
-```bash
-┌──(rishabh㉿dev)-[~/portfolio]
-│
-├─$ whoami
-│   Rishabh · Frontend Developer · React Specialist
-│
-├─$ ./boot_system.sh
-│   [*] Loading React engine ─────────────── ✔ RUNNING
-│   [*] Compiling UI components ──────────── ✔ READY
-│   [*] Injecting Tailwind styles ────────── ✔ APPLIED
-│   [*] Activating Express backend ───────── ⟳ LEARNING...
-│   [*] Opening collaboration port ───────── ✔ ACTIVE 🤝
-│
-│   [████████████████████████████████] 100%
-│
-└─$ _
+<!--START_SECTION:waka-->
+```text
+Your WakaTime block is rewritten here by your existing workflow.
 ```
-
-</div>
-
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Rishp-3&hide_border=true&ring=2979ff&fire=2979ff&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2979ff&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117" width="62%"/>
-<br/><br/>
-<img src="https://github-stats-extended.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2979ff&icon_color=2979ff&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="47%"/>
-&nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=true&bg_color=0D1117&title_color=2979ff&text_color=FFFFFF&langs_count=8" width="36%"/>
-</div>
+<!--END_SECTION:waka-->
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 📈 Activity graph
 
-<div align="center">
-<img alt="contribution snake" width="90%" src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/main/activity-graph.svg" alt="Activity graph" width="100%"/>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="trophy.svg" alt="GitHub trophies" width="100%"/>
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
+</p>
+
+## 🏙️ Contribution city
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+</p>
 
 ---
 
-## 🌐 CONNECT
+<p align="center">
+  <a href="https://github.com/Rishp-3"><img src="connect.svg?v=1" alt="Connect with me" width="100%"/></a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Rishp-3">GitHub</a> ·
+  <a href="https://linkedin.com/in/rishp3">LinkedIn</a> ·
+  <a href="https://x.com/rishp_3">X</a> ·
+  <a href="https://instagram.com/rishp_3">Instagram</a> ·
+  <a href="https://facebook.com/rishp3">Facebook</a> ·
+  <a href="https://youtube.com/@rishp3">YouTube</a> ·
+  <a href="https://codepen.io/Rishp-3">CodePen</a> ·
+  <a href="https://stackoverflow.com/users/32493179">Stack Overflow</a> ·
+  <a href="https://medium.com/@rishp-3">Medium</a> ·
+  <a href="https://reddit.com/user/Rishp-3">Reddit</a> ·
+  <a href="mailto:rp6229553@gmail.com">Email</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishp3)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishp-3)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rishp_3)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rishp_3)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rishp3)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishp-3)
-
-*Open to collaborations, freelance work & full-time opportunities*
-
-[![Email](https://img.shields.io/badge/Email-rp6229553%40gmail.com-%232979ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp6229553@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2979ff,100:d500f9&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Rishp-3?tab=followers"><img src="https://img.shields.io/github/followers/Rishp-3?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0D0E16&logo=github" alt="followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Rishp-3&label=PROFILE+VISITS&color=a78bfa&style=for-the-badge&abbreviated=true" alt="views"/>
+</p>
