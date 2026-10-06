@@ -41,13 +41,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishp-3&theme=github_dark&border_color=22d3ee" alt="Most commit language"/>
 </p>
 
-### ⏱️ WakaTime weekly stats
-
-<!--START_SECTION:waka-->
-```text
-Your WakaTime block is rewritten here by your existing workflow.
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -57,11 +50,7 @@ Your WakaTime block is rewritten here by your existing workflow.
   <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/main/activity-graph.svg" alt="Activity graph" width="100%"/>
 </p>
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="trophy.svg" alt="GitHub trophies" width="100%"/>
-</p>
 
 ## 🐍 Contribution snake
 
@@ -69,11 +58,7 @@ Your WakaTime block is rewritten here by your existing workflow.
   <img src="https://raw.githubusercontent.com/Rishp-3/Rishp-3/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
 </p>
 
-## 🏙️ Contribution city
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
-</p>
 
 ---
 
