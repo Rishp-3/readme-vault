@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Matrix about card</title>
+<desc id="dsc">Green-on-black identity terminal card.</desc>
+
+<rect x="0" y="0" width="480" height="220" rx="8" fill="#000000" stroke="#008F23" stroke-width="1"/><text x="30" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="normal" fill="#003B10" text-anchor="start" id="card-cmd">&gt; identify --user</text><text x="30" y="88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#00FF41" text-anchor="start" id="card-name">Rishabh pal</text><text x="30" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="normal" fill="#E8FFE8" text-anchor="start" id="card-role">Frontend Developer</text><text x="30" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="normal" fill="#008F23" text-anchor="start" id="card-status">[Online &amp; Operational]</text><text x="30" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="normal" fill="#00FF41" text-anchor="start" id="card-user">@Rishp-3_</text>
+</svg>

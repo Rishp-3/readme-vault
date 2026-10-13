@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">ASCII divider.</desc>
+
+<text x="500" y="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="normal" fill="#1A8F3C" text-anchor="middle">-----[ ✓ ]-----</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">YOUR_NAME banner</title>
+<desc id="dsc">Card-style banner with accent pill.</desc>
+
+<defs><filter id="sh" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#0F172A" flood-opacity="0.18"/></filter></defs><style><![CDATA[
+@media (prefers-reduced-motion: reduce){*{animation:none !important;}}
+.rise{animation:rise .7s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
+]]></style><rect x="0" y="0" width="1000" height="300" rx="0" fill="#EEF2F7"/><g class="rise"><rect x="40" y="60" width="920" height="180" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="url(#sh)"/></g><text x="76" y="138" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1F2937" text-anchor="start" id="banner-name" class="rise">YOUR_NAME</text><text x="76" y="172" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="normal" fill="#64748B" text-anchor="start" id="banner-role">YOUR_ROLE</text><rect x="660" y="122" width="260" height="44" rx="22" fill="#3B82F6"/><text x="790" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle" id="banner-pill">Open to collaborate</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Dotted line filled once left to right.</desc>
+
+<line x1="100" y1="12" x2="900" y2="12" stroke="#8B949E" stroke-width="1" stroke-dasharray="2 6"/><rect x="100" y="10" width="800" height="3" rx="0" fill="#58A6FF"><animate  attributeName="width" values="0;800" dur="1.2s" begin="0s" repeatCount="0" fill="freeze"/></rect>
+</svg>

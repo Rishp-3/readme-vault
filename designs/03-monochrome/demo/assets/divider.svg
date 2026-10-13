@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Dashed rule.</desc>
+
+<line x1="100" y1="12" x2="900" y2="12" stroke="#FFFFFF" stroke-width="1" stroke-dasharray="4 6"/>
+</svg>

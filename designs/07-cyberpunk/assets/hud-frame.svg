@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">HUD frame</title>
+<desc id="dsc">Corner bracket frame overlay.</desc>
+
+<polygon points="28,6 452,6 474,28 474,192 452,214 28,214 6,192 6,28" fill="none" stroke="#00E5FF" stroke-width="2"/><text x="24" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="normal" fill="#FF2BD6" text-anchor="start">+</text><text x="444" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="normal" fill="#FF2BD6" text-anchor="end">+</text>
+</svg>

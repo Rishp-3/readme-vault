@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Monochrome banner</title>
+<desc id="dsc">Uppercase name inside a thin frame with a slow scan line.</desc>
+
+<rect x="0" y="0" width="1000" height="300" rx="0" fill="#000000"/><rect x="12" y="12" width="976" height="276" rx="0" fill="none" stroke="#FFFFFF" stroke-width="1"/><text x="500" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="6" id="banner-name">RISHABH PAL</text><text x="500" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="normal" fill="#8A8A8A" text-anchor="middle" letter-spacing="4" id="banner-role">FRONTEND DEVELOPER</text><rect x="-200" y="0" width="200" height="300" rx="0" fill="#FFFFFF" opacity="0.15" id="scanline"><animateTransform attributeName="transform" type="translate" values="-200,0;1200,0" dur="6s" begin="0s" repeatCount="indefinite"/></rect>
+</svg>

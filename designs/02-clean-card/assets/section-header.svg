@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Section header</title>
+<desc id="dsc">Card-style section header with accent bar.</desc>
+
+<rect x="0" y="0" width="1000" height="56" rx="0" fill="#EEF2F7"/><rect x="24" y="14" width="6" height="28" rx="3" fill="#3B82F6"/><rect x="40" y="8" width="300" height="40" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/><text x="60" y="33" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1F2937" text-anchor="start" id="section-title">Featured Projects</text>
+</svg>

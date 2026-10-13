@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Three pastel dots.</desc>
+
+<circle cx="470" cy="12" r="5" fill="#FFC8DD"/><circle cx="500" cy="12" r="5" fill="#BDE0FE"/><circle cx="530" cy="12" r="5" fill="#CDB4DB"/>
+</svg>

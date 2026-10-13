@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Glass pill.</desc>
+
+<defs><linearGradient id="gbg2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#312E81"/><stop offset="100%" stop-color="#0EA5E9"/></linearGradient></defs><rect x="0" y="0" width="1000" height="24" rx="0" fill="url(#gbg2)"/><defs><linearGradient id="ghl" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.35"/><stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs><rect x="300" y="2" width="400" height="20" rx="10" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" opacity="0.18"/><rect x="301" y="3" width="398" height="7.0" rx="8" fill="url(#ghl)" opacity="0.5"/>
+</svg>

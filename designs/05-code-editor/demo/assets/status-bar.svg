@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="32" viewBox="0 0 1000 32" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Status bar</title>
+<desc id="dsc">Editor status bar footer.</desc>
+
+<rect x="0" y="0" width="1000" height="32" rx="0" fill="#569CD6"/><text x="16" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="normal" fill="#1E1E1E" text-anchor="start" id="st-branch">⎇ main</text><text x="900" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="normal" fill="#1E1E1E" text-anchor="start" id="st-info">UTF-8 · JavaScript · Ln 7</text>
+</svg>

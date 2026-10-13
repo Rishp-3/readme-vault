@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Horizon line with sun dot.</desc>
+
+<defs><linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF9A3C"/><stop offset="50%" stop-color="#FF5E7E"/><stop offset="100%" stop-color="#9B4DCA"/></linearGradient></defs><line x1="0" y1="12" x2="1000" y2="12" stroke="url(#hg)" stroke-width="3"/><circle cx="500" cy="12" r="5" fill="#FFD166"/>
+</svg>

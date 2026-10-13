@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Tiny tree row.</desc>
+
+<line x1="100" y1="20" x2="900" y2="20" stroke="#166534" stroke-width="1"/><path d="M200 4 L192 18 L208 18 Z" fill="#22C55E" opacity="0.8"/><path d="M260 4 L252 18 L268 18 Z" fill="#22C55E" opacity="0.8"/><path d="M320 4 L312 18 L328 18 Z" fill="#22C55E" opacity="0.8"/><path d="M380 4 L372 18 L388 18 Z" fill="#22C55E" opacity="0.8"/><path d="M440 4 L432 18 L448 18 Z" fill="#22C55E" opacity="0.8"/><path d="M500 4 L492 18 L508 18 Z" fill="#22C55E" opacity="0.8"/><path d="M560 4 L552 18 L568 18 Z" fill="#22C55E" opacity="0.8"/><path d="M620 4 L612 18 L628 18 Z" fill="#22C55E" opacity="0.8"/><path d="M680 4 L672 18 L688 18 Z" fill="#22C55E" opacity="0.8"/><path d="M740 4 L732 18 L748 18 Z" fill="#22C55E" opacity="0.8"/>
+</svg>

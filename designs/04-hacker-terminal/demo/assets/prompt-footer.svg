@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Footer prompt</title>
+<desc id="dsc">Terminal footer echo.</desc>
+
+<rect x="0" y="0" width="1000" height="40" rx="0" fill="#050A05"/><text x="40" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="normal" fill="#33FF66" text-anchor="start" id="foot-cmd">$ echo &quot;thanks for visiting&quot;</text>
+</svg>

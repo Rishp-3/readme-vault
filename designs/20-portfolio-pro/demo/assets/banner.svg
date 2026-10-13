@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Portfolio pro banner</title>
+<desc id="dsc">Calm navy professional banner.</desc>
+
+<style><![CDATA[
+@media (prefers-reduced-motion: reduce){*{animation:none !important;}}
+.fadein{animation:fi 1s ease both}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+
+]]></style><rect x="0" y="0" width="1000" height="300" rx="0" fill="#FFFFFF"/><rect x="0" y="0" width="8" height="300" rx="0" fill="#2563EB"/><g class="fadein"><text x="60" y="120" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#111827" text-anchor="start" id="banner-name">Rishabh pal</text></g><g class="fadein"><text x="60" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#2563EB" text-anchor="start" id="banner-role">Frontend Developer</text></g><g class="fadein"><text x="60" y="190" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#475569" text-anchor="start" id="banner-value">Self-taught frontend developer building clean, responsive UIs with React.</text></g><g class="fadein"><rect x="60" y="210" width="64.4" height="34" rx="17" fill="#0F172A"/><text x="92.2" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#FFFFFF" text-anchor="middle" id="fact-React">React</text><rect x="138.4" y="210" width="122.64" height="34" rx="17" fill="#0F172A"/><text x="199.72" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#FFFFFF" text-anchor="middle" id="fact-Responsive UI">Responsive UI</text><rect x="275.03999999999996" y="210" width="115.36" height="34" rx="17" fill="#0F172A"/><text x="332.71999999999997" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#FFFFFF" text-anchor="middle" id="fact-Open to work">Open to work</text></g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Portfolio pro banner</title>
+<desc id="dsc">Calm navy professional banner.</desc>
+
+<style><![CDATA[
+@media (prefers-reduced-motion: reduce){*{animation:none !important;}}
+.fadein{animation:fi 1s ease both}
+@keyframes fi{from{opacity:0}to{opacity:1}}
+
+]]></style><rect x="0" y="0" width="1000" height="300" rx="0" fill="#FFFFFF"/><rect x="0" y="0" width="8" height="300" rx="0" fill="#2563EB"/><g class="fadein"><text x="60" y="120" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#111827" text-anchor="start" id="banner-name">YOUR_NAME</text></g><g class="fadein"><text x="60" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#2563EB" text-anchor="start" id="banner-role">YOUR_ROLE</text></g><g class="fadein"><text x="60" y="190" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" fill="#475569" text-anchor="start" id="banner-value">YOUR_VALUE_STATEMENT</text></g><g class="fadein"><rect x="60" y="210" width="115.36" height="34" rx="17" fill="#0F172A"/><text x="117.68" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#FFFFFF" text-anchor="middle" id="fact-YOUR_SKILL_1">YOUR_SKILL_1</text><rect x="189.36" y="210" width="115.36" height="34" rx="17" fill="#0F172A"/><text x="247.04000000000002" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#FFFFFF" text-anchor="middle" id="fact-YOUR_SKILL_2">YOUR_SKILL_2</text><rect x="318.72" y="210" width="115.36" height="34" rx="17" fill="#0F172A"/><text x="376.40000000000003" y="232" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" fill="#FFFFFF" text-anchor="middle" id="fact-Open to work">Open to work</text></g>
+</svg>

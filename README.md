@@ -1,139 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,50:1de9b6,100:6200ea&height=220&section=header&text=README%20VAULT&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=20%20profile%20README%20designs.%20Copy.%20Paste.%20Stand%20out.&descAlignY=60&descSize=18" width="100%" />
+# github-profile-designs
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1DE9B6&center=true&vCenter=true&width=520&lines=Different+goals.+Different+profiles.;Same+content.+Different+vibe.;Pick+a+style.+Replace+username.+Done." alt="Typing SVG" /></a>
+**20 copy-paste-ready GitHub profile README designs — SVG-first, animated, no JavaScript.**
 
-<br/>
+<img src="docs/images/gallery.png" width="100%" alt="Gallery of all 20 designs"/>
 
-![Designs](https://img.shields.io/badge/DESIGNS-20-00c853?style=for-the-badge&logo=github&logoColor=white)
-![License](https://img.shields.io/badge/LICENSE-MIT-6200ea?style=for-the-badge)
-![PRs](https://img.shields.io/badge/PRs-WELCOME-ff4081?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/readme-vault?style=for-the-badge&color=ffd600&logo=starship&logoColor=black)
-
-<br/>
-
-[**🎨 Browse Designs**](#-purpose-based-styles) &nbsp;•&nbsp; [**⚡ Quick Start**](#-quick-start) &nbsp;•&nbsp; [**🤝 Contribute**](#-contributing)
+![License](https://img.shields.io/badge/license-MIT-22C55E?style=flat-square)
+![Designs](https://img.shields.io/badge/designs-20-2563EB?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-welcome-F59E0B?style=flat-square)
 
 </div>
 
-<br/>
+## How to use in 4 steps
 
-## ⚡ Quick Start
+1. Create a repo named **exactly your GitHub username** (e.g. `octocat/octocat`). Its README becomes your profile page.
+2. Pick a design below, open its folder, and copy its `README.md` and the whole `assets/` folder into your profile repo. (Each folder also has a `demo/` — the same design already filled with real public data of [`Rishp-3`](https://github.com/Rishp-3) — so you can see it working.)
+3. Replace the placeholders (see [`shared/placeholders.md`](shared/placeholders.md)) — or run `python3 tools/replace-placeholders.py --design 05-code-editor --name "..." --username "..."` to do it in one shot.
+4. Commit, push, open your profile. Done.
 
-```bash
-# 1. Create a repo named exactly like your username
-# 2. Pick a style below and copy its README.md
-# 3. Replace the placeholder
-sed -i 's/YOUR_USERNAME/your-github-name/g' README.md
-# 4. Commit. Your profile is live. 🚀
-```
+## The 20 designs
 
-> 💡 Or click **[Use this template](../../generate)** to get your own copy.
+| # | Design | Category | Vibe | Animated | Themes | Preview | Folder |
+|---|---|---|---|---|---|---|---|
+| 01 | [Minimal](designs/01-minimal/) | Minimal / Clean | Clean, lots of white space, text-first | yes | light + dark | <img src="designs/01-minimal/preview.png" width="220" alt="01-minimal preview"/> |
+| 02 | [Clean Card](designs/02-clean-card/) | Minimal / Clean | Soft card sections with rounded corners and shadows | yes | light + dark | <img src="designs/02-clean-card/preview.png" width="220" alt="02-clean-card preview"/> |
+| 03 | [Monochrome](designs/03-monochrome/) | Minimal / Clean | Black and white only, huge uppercase name, scan line | yes | dark only | <img src="designs/03-monochrome/preview.png" width="220" alt="03-monochrome preview"/> |
+| 04 | [Hacker Terminal](designs/04-hacker-terminal/) | Developer / Tech | Green phosphor terminal, typed lines, neofetch card | yes | dark only | <img src="designs/04-hacker-terminal/preview.png" width="220" alt="04-hacker-terminal preview"/> |
+| 05 | [Code Editor](designs/05-code-editor/) | Developer / Tech | VS Code look: tabs, line numbers, syntax colors, minimap | yes | dark only | <img src="designs/05-code-editor/preview.png" width="220" alt="05-code-editor preview"/> |
+| 06 | [Matrix Rain](designs/06-matrix-rain/) | Developer / Tech | Falling green glyph columns behind a dark readable panel | yes | dark only | <img src="designs/06-matrix-rain/preview.png" width="220" alt="06-matrix-rain preview"/> |
+| 07 | [Cyberpunk](designs/07-cyberpunk/) | Developer / Tech | Neon pink/cyan HUD panels, RGB glitch, grid floor | yes | dark only | <img src="designs/07-cyberpunk/preview.png" width="220" alt="07-cyberpunk preview"/> |
+| 08 | [Gradient Wave](designs/08-gradient-wave/) | Animated | Moving layered sine waves on a cyan-violet gradient | yes | dark only | <img src="designs/08-gradient-wave/preview.png" width="220" alt="08-gradient-wave preview"/> |
+| 09 | [Typing Intro](designs/09-typing-intro/) | Animated | Character-by-character typing that cycles 4 phrases | yes | dark only | <img src="designs/09-typing-intro/preview.png" width="220" alt="09-typing-intro preview"/> |
+| 10 | [Snake Game](designs/10-snake-game/) | Animated | Contribution-grid banner + real snake via GitHub Action | yes | dark only | <img src="designs/10-snake-game/preview.png" width="220" alt="10-snake-game preview"/> |
+| 11 | [Glow Pulse](designs/11-glow-pulse/) | Animated | Pulsing orb, soft violet glow, calm breathing animations | yes | dark only | <img src="designs/11-glow-pulse/preview.png" width="220" alt="11-glow-pulse preview"/> |
+| 12 | [Retro Pixel](designs/12-retro-pixel/) | Colorful / Fun | 8-bit pixel scene, blocky bitmap-font title, RPG dialog card | yes | dark only | <img src="designs/12-retro-pixel/preview.png" width="220" alt="12-retro-pixel preview"/> |
+| 13 | [Pastel Soft](designs/13-pastel-soft/) | Colorful / Fun | Drifting pastel blobs, sparkles, rounded everything | yes | light + dark | <img src="designs/13-pastel-soft/preview.png" width="220" alt="13-pastel-soft preview"/> |
+| 14 | [Sunset Gradient](designs/14-sunset-gradient/) | Colorful / Fun | Vertical sunset, rising half sun, silhouette hills, birds | yes | light + dark | <img src="designs/14-sunset-gradient/preview.png" width="220" alt="14-sunset-gradient preview"/> |
+| 15 | [Neon Dark](designs/15-neon-dark/) | Colorful / Fun | Minimal dark with neon outline box and flickering sign | yes | dark only | <img src="designs/15-neon-dark/preview.png" width="220" alt="15-neon-dark preview"/> |
+| 16 | [Space Galaxy](designs/16-space-galaxy/) | Themed | Twinkling stars, spiral galaxy, ringed planet, shooting star | yes | dark only | <img src="designs/16-space-galaxy/preview.png" width="220" alt="16-space-galaxy preview"/> |
+| 17 | [Ocean Blue](designs/17-ocean-blue/) | Themed | Layered blue waves, rising bubbles, fish silhouette | yes | dark only | <img src="designs/17-ocean-blue/preview.png" width="220" alt="17-ocean-blue preview"/> |
+| 18 | [Forest Green](designs/18-forest-green/) | Themed | Pine silhouettes with parallax sway, fireflies, moon, mist | yes | dark only | <img src="designs/18-forest-green/preview.png" width="220" alt="18-forest-green preview"/> |
+| 19 | [Glassmorphism](designs/19-glassmorphism/) | Themed | Frosted glass panels over drifting blurred blobs (SVG imitation) | yes | dark only | <img src="designs/19-glassmorphism/preview.png" width="220" alt="19-glassmorphism preview"/> |
+| 20 | [Portfolio Pro](designs/20-portfolio-pro/) | Themed | Professional recruiter-first layout, calm navy, one fade-in | yes | light + dark | <img src="designs/20-portfolio-pro/preview.png" width="220" alt="20-portfolio-pro preview"/> |
 
-<br/>
+## FAQ
 
-## 🎯 Purpose-based Styles
+**Why SVG?** GitHub strips `<style>` and `<script>` from Markdown, but it *does* render `.svg` files placed in the repo via `<img>`. An SVG carries its own styles and animations, so it survives the sandbox while anything HTML/CSS-based would not.
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><a href="./creative"><img src="./creative/preview.png" width="160"/><br/><b>/creative</b></a><br/><sub>Unique visuals</sub></td>
-    <td align="center" width="20%"><a href="./technical"><img src="./technical/preview.png" width="160"/><br/><b>/technical</b></a><br/><sub>Stack & tools</sub></td>
-    <td align="center" width="20%"><a href="./hiring"><img src="./hiring/preview.png" width="160"/><br/><b>/hiring</b></a><br/><sub>For recruiters</sub></td>
-    <td align="center" width="20%"><a href="./opensource"><img src="./opensource/preview.png" width="160"/><br/><b>/opensource</b></a><br/><sub>Contributions</sub></td>
-    <td align="center" width="20%"><a href="./minimal"><img src="./minimal/preview.png" width="160"/><br/><b>/minimal</b></a><br/><sub>Clean & focused</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><a href="./animated"><img src="./animated/preview.png" width="160"/><br/><b>/animated</b></a><br/><sub>Motion & life</sub></td>
-    <td align="center" width="20%"><a href="./student"><img src="./student/preview.png" width="160"/><br/><b>/student</b></a><br/><sub>Beginners</sub></td>
-    <td align="center" width="20%"><a href="./freelancer"><img src="./freelancer/preview.png" width="160"/><br/><b>/freelancer</b></a><br/><sub>Services & contact</sub></td>
-    <td align="center" width="20%"><a href="./designer"><img src="./designer/preview.png" width="160"/><br/><b>/designer</b></a><br/><sub>UI/UX look</sub></td>
-    <td align="center" width="20%"><a href="./data-science"><img src="./data-science/preview.png" width="160"/><br/><b>/data-science</b></a><br/><sub>Charts & ML</sub></td>
-  </tr>
-</table>
+**Why are animations inside the SVG?** Because CSS/JS in Markdown is removed. Inside the SVG we can use SMIL (`<animate>`, `<animateTransform>`, `<animateMotion>`) and CSS `@keyframes` — and every design ships a `prefers-reduced-motion` off-switch.
 
-<br/>
+**How do I switch dark/light?** For designs 01, 02, 13, 14 and 20 use the `<picture>` pattern shown in their `variants/` files: GitHub renders the correct source based on the visitor's theme. Other designs are intentionally dark-only (see each `colors.md`).
 
-## 🎨 Vibe-based Styles
+**How do I add the contribution snake?** Only design 10 ships it: copy `designs/10-snake-game/workflow/snake.yml` into your profile repo's `.github/workflows/`, create an empty `output` branch, run the workflow once. Full steps in `designs/10-snake-game/setup.md`.
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%"><a href="./terminal"><img src="./terminal/preview.png" width="160"/><br/><b>/terminal</b></a><br/><sub>whoami</sub></td>
-    <td align="center" width="20%"><a href="./neon"><img src="./neon/preview.png" width="160"/><br/><b>/neon</b></a><br/><sub>Glow in the dark</sub></td>
-    <td align="center" width="20%"><a href="./retro"><img src="./retro/preview.png" width="160"/><br/><b>/retro</b></a><br/><sub>8-bit pixel</sub></td>
-    <td align="center" width="20%"><a href="./cyberpunk"><img src="./cyberpunk/preview.png" width="160"/><br/><b>/cyberpunk</b></a><br/><sub>Purple & pink</sub></td>
-    <td align="center" width="20%"><a href="./space"><img src="./space/preview.png" width="160"/><br/><b>/space</b></a><br/><sub>Galaxy theme</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><a href="./glass"><img src="./glass/preview.png" width="160"/><br/><b>/glass</b></a><br/><sub>Glassmorphism</sub></td>
-    <td align="center" width="20%"><a href="./pastel"><img src="./pastel/preview.png" width="160"/><br/><b>/pastel</b></a><br/><sub>Soft & cute</sub></td>
-    <td align="center" width="20%"><a href="./blueprint"><img src="./blueprint/preview.png" width="160"/><br/><b>/blueprint</b></a><br/><sub>Engineering grid</sub></td>
-    <td align="center" width="20%"><a href="./matrix"><img src="./matrix/preview.png" width="160"/><br/><b>/matrix</b></a><br/><sub>Code rain</sub></td>
-    <td align="center" width="20%"><a href="./luxury"><img src="./luxury/preview.png" width="160"/><br/><b>/luxury</b></a><br/><sub>Black & gold</sub></td>
-  </tr>
-</table>
+## Credits & License
 
-<br/>
+Built with a single deterministic generator ([`tools/build.py`](tools/build.py)). Icons are original geometric marks, not trademarked logos. Demo data comes from the public GitHub API snapshot in [`tools/data/rishp-3.json`](tools/data/rishp-3.json).
 
-## 📁 Inside every design
-
-```text
-design-name/
-├── 📄 README.md      → profile code to copy
-├── 🛠️ SETUP.md       → what to replace, step by step
-├── 🖼️ preview.png    → screenshot
-├── 🎞️ assets/        → banners, GIFs, icons
-└── ⚙️ .github/workflows/ → optional GitHub Action (already in the right place)
-```
-
-<details>
-<summary><b>🔧 Which designs use workflows?</b></summary>
-
-<br/>
-
-| Workflow | Used in |
-|:--|:--|
-| 🐍 Snake animation | `creative` · `animated` · `neon` · `retro` · `space` · `matrix` |
-| ⏱️ WakaTime weekly stats | `technical` · `student` · `data-science` · `terminal` · `blueprint` · `matrix` |
-| 🏆 GitHub trophies | `creative` · `hiring` · `opensource` · `student` · `freelancer` · `designer` · `retro` · `cyberpunk` · `pastel` · `matrix` · `luxury` |
-| 📈 Activity graph | `technical` · `opensource` · `space` · `matrix` |
-
-> ℹ️ Each design folder mirrors a complete profile repo, so `.github/workflows/` is already inside it.
-> Copy the **whole folder contents** to your profile repo root and the workflow works there.
-> (Workflows inside these folders do not run in this vault repo itself, only in your copy.)
-
-</details>
-
-<details>
-<summary><b>❓ FAQ</b></summary>
-
-<br/>
-
-**How do I make a profile README?**
-Create a public repo named exactly like your username and add a `README.md`.
-
-**Can I edit a design?**
-Yes, it's MIT licensed. Change anything.
-
-**Stats not showing?**
-Make sure you replaced `YOUR_USERNAME`.
-
-</details>
-
-<br/>
-
-## 🤝 Contributing
-
-Made a new style? Send a PR! Read [CONTRIBUTING.md](./CONTRIBUTING.md) for the folder format.
-
-<div align="center">
-
-<br/>
-
-**Made with 💚 for developers who build on purpose.**
-
-⭐ If this helped, drop a **star**!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6200ea,50:1de9b6,100:00c853&height=120&section=footer" width="100%" />
-
-</div>
+MIT © 2026 Rishp-3

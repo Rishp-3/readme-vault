@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Thin slate line.</desc>
+
+<line x1="60" y1="12" x2="940" y2="12" stroke="#E2E8F0" stroke-width="1"/>
+</svg>

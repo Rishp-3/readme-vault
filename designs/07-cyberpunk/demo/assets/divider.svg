@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="24" viewBox="0 0 1000 24" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Divider</title>
+<desc id="dsc">Neon line with traveling dot.</desc>
+
+<line x1="0" y1="12" x2="1000" y2="12" stroke="#FF2BD6" stroke-width="2" opacity="0.7"/><circle cx="0" cy="12" r="5" fill="#00E5FF" filter="url(#glow)"><animateTransform attributeName="transform" type="translate" values="0,12;1000,12" dur="2.6s" begin="0s" repeatCount="indefinite"/></circle>
+</svg>

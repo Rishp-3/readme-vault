@@ -1,22 +1,16 @@
-
 # Contributing
 
-Thanks for adding a new style!
+Thanks for interest in improving **github-profile-designs**!
 
-## Folder format
-```
-your-style/
-├── README.md     # profile code, use YOUR_USERNAME placeholders
-├── SETUP.md      # 3-6 simple steps
-├── preview.png   # screenshot (about 1280x800)
-├── assets/       # banners, GIFs, icons (this design only)
-└── .github/workflows/   # optional, GitHub Action files
-```
+## Adding or fixing a design
+1. Everything is generated from `tools/build.py` + `tools/design_defs.py` + the SVG builders. **Do not hand-edit generated files** — edit the generator and re-run `python3 tools/build.py`.
+2. Add your design config to `DESIGNS` and a builder function; keep the naming scheme `NN-slug`.
+3. Run the quality gates: `python3 tools/check.py`, `xmllint --noout` on every new SVG.
+4. Preview PNGs are regenerated automatically (cairosvg renders the first frame of SMIL animations — that is expected).
 
-## Rules
-- Folder name: lowercase, hyphens, no spaces.
-- Each design must be fully self-contained: it must not reference files from other folders.
-- Use placeholders (`YOUR_USERNAME`, `YOUR_NAME`), never your own details.
-- No copyrighted images. Use only assets you own or that are freely licensed.
-- Add your style to the root README table.
-- Open a PR with a short description and a screenshot.
+## Conventions
+- SVGs must stay self-contained (see `docs/SVG-GUIDE.md`): no scripts, no external refs, system fonts only, reduced-motion respected.
+- Templates use only placeholders from `shared/placeholders.md`; personal data appears only in `demo/` folders.
+- Text contrast ≥ 4.5:1 on backgrounds.
+
+Open an issue first for big changes. PRs should describe *what* changed and show a screenshot.

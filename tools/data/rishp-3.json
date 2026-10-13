@@ -1,0 +1,113 @@
+{
+  "source": "live-api",
+  "login": "Rishp-3",
+  "name": "Rishabh pal",
+  "bio": "Frontend Developer | React ⚛️ | JavaScript | Node.js | Learning Full Stack Development",
+  "avatar_url": "https://avatars.githubusercontent.com/u/174471886?v=4",
+  "public_repos": 7,
+  "followers": 1,
+  "following": 0,
+  "tagline": "Building clean and responsive UIs with React",
+  "role": "Frontend Developer",
+  "status": "Online & Operational",
+  "hireable": true,
+  "open_to": "collaborations and open source",
+  "journey_since": 2023,
+  "goal": "Full stack development",
+  "os": "Arch Linux",
+  "stack": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Node.js",
+    "Express.js",
+    "Git",
+    "GitHub",
+    "Netlify",
+    "C",
+    "Java"
+  ],
+  "repos": [
+    {
+      "name": "Rishp-3",
+      "description": null,
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/Rishp-3"
+    },
+    {
+      "name": "readme-vault",
+      "description": null,
+      "language": null,
+      "stars": 1,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/readme-vault"
+    },
+    {
+      "name": "21-Frontend-Peroject",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/21-Frontend-Peroject"
+    },
+    {
+      "name": "Java-Project",
+      "description": null,
+      "language": "Java",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/Java-Project"
+    },
+    {
+      "name": "LeetCode",
+      "description": null,
+      "language": "Java",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/LeetCode"
+    },
+    {
+      "name": "21-React-project",
+      "description": null,
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/21-React-project"
+    },
+    {
+      "name": "GFG",
+      "description": null,
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "url": "https://github.com/Rishp-3/GFG"
+    }
+  ],
+  "top_languages": [
+    "Java",
+    "JavaScript"
+  ],
+  "links": {
+    "linkedin": "https://linkedin.com/in/rishp3",
+    "x": "https://x.com/rishp_3",
+    "instagram": "https://instagram.com/rishp_3",
+    "youtube": "https://youtube.com/@rishp3",
+    "codepen": "https://codepen.io/Rishp-3",
+    "medium": "https://medium.com/@rishp-3",
+    "leetcode": "https://leetcode.com/u/rishp_3",
+    "gfg": "https://geeksforgeeks.org/profile/rishp_3",
+    "stackoverflow": "https://stackoverflow.com/users/32493179",
+    "github": "https://github.com/Rishp-3"
+  },
+  "featured_repos": [
+    "21-Frontend-Peroject",
+    "Java-Project",
+    "readme-vault",
+    "Rishp-3"
+  ]
+}
