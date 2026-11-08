@@ -1,67 +1,151 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="YOUR_NAME profile banner"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=282828" />
+<img src="https://img.shields.io/badge/Status-Accepted-00B8A3?style=for-the-badge&labelColor=282828" />
+<img src="https://img.shields.io/badge/Difficulty-Medium-FFC01E?style=for-the-badge&labelColor=282828" />
+
+# 1. Rishabh Pal
+
+**Frontend Developer · React.js · Clean & Responsive UIs**
+
+<a href="https://github.com/Rishp-3"><img src="https://img.shields.io/badge/GitHub-Rishp--3-282828?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/rishp_3/"><img src="https://img.shields.io/badge/LeetCode-rishp__3-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rishp3"><img src="https://img.shields.io/badge/LinkedIn-rishp3-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/rishp_3"><img src="https://img.shields.io/badge/X-rishp__3-000000?style=flat-square&logo=x&logoColor=white" /></a>
 
 </div>
 
-## About
+---
 
-- 🔭 I'm **YOUR_ROLE** — YOUR_TAGLINE
-- 🌱 Currently learning: YOUR_CURRENT_LEARNING
-- ⚡ Status: YOUR_STATUS — open to collaborations
-- 💻 Daily OS: YOUR_OS
+## 📝 Description
+
+Main ek **self-taught Frontend Developer** hoon, jisne **2023** mein web development ki journey shuru ki.
+Mera focus **React.js** par hai — clean, responsive aur fast user interfaces banana.
+Goal simple hai: **Full Stack Developer** banna. 🚀
+
+Open to **collaborations** and **open source** contributions.
+
+**Example 1:**
+
+```
+Input:  idea = "Ek cool web app"
+Output: Clean UI + Responsive Design + Working Backend ✅
+```
+
+**Example 2:**
+
+```
+Input:  bug = "Why is my div not centered?"
+Output: display: flex; justify-content: center; align-items: center; 😅
+```
+
+---
+
+## 💻 Solution
+
+```javascript
+class Developer {
+  constructor() {
+    this.name     = "Rishabh Pal";
+    this.role     = "Frontend Developer";
+    this.github   = "Rishp-3";
+    this.os       = "Arch Linux (btw)";
+    this.learning = ["Full Stack", "Java", "DSA"];
+    this.goal     = "Full Stack Developer";
+    this.status   = "Online & Operational";
+  }
+
+  solve(problem) {
+    return this.think(problem) && this.code() && this.ship();
+  }
+}
+
+const rishabh = new Developer();
+rishabh.solve("Build something awesome");  // Accepted ✅
+```
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="assets/about-card.svg" width="480" alt="About me card"/>
+| | |
+|:--|:--|
+| **Frontend** | HTML5 · CSS3 · JavaScript · React · Tailwind CSS · Bootstrap |
+| **Backend** | Node.js · Express.js · MongoDB · REST APIs |
+| **Languages** | C · Java · JavaScript |
+| **Tools** | Git · GitHub · Netlify · Arch Linux |
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,c,java,git,github,netlify,archlinux&theme=dark" />
 
 </div>
 
-<div align="center"><img src="assets/section-header.svg" width="100%" alt="Skills section header"/></div>
+---
 
-## Skills
+## 📊 LeetCode Stats
 
 <div align="center">
 
-<img src="assets/skills.svg" width="100%" alt="Tech stack icons"/>
+<a href="https://leetcode.com/u/rishp_3/">
+  <img src="https://leetcard.jacoder.me/rishp_3?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+<sub>Agar card load na ho to fallback:</sub><br/>
+<img src="https://github-readme-leetcode-stats.vercel.app/?username=rishp_3&theme=dark&font=Karla" alt="LeetCode Stats Fallback" />
 
 </div>
 
-## Featured Projects
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=21-Frontend-Peroject&show_owner=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="21-Frontend-Peroject pinned repo card"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Java-Project&show_owner=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="Java-Project pinned repo card"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=readme-vault&show_owner=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="readme-vault pinned repo card"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Rishp-3&show_owner=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="Rishp-3 pinned repo card"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rishp-3&show_icons=true&hide_border=false&bg_color=282828&title_color=FFA116&icon_color=FFA116&text_color=EFEFEF&border_color=3E3E3E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishp-3&layout=compact&hide_border=false&bg_color=282828&title_color=FFA116&text_color=EFEFEF&border_color=3E3E3E" />
+
+<img src="https://streak-stats.demolab.com?user=Rishp-3&background=282828&ring=FFA116&fire=FFA116&currStreakLabel=FFA116&sideLabels=EFEFEF&currStreakNum=EFEFEF&sideNums=EFEFEF&dates=9E9E9E&stroke=3E3E3E&border=3E3E3E" />
 
 </div>
 
-## GitHub Stats
+---
+
+## 🏆 Submissions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="Top languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github" width="600" alt="Profile summary card"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?username=YOUR_USERNAME&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=1F2937&icon_color=3B82F6&border_color=E2E8F0&hide_border=false" width="400" alt="GitHub streak stats"/>
+| Platform | Profile |
+|:--|:--|
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /> | [rishp_3](https://leetcode.com/u/rishp_3/) |
+| <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /> | [Rishp_3](https://codeforces.com/profile/Rishp_3) |
+| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /> | [rishp_3](https://www.codechef.com/users/rishp_3) |
+| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" /> | [rishp_3](https://www.hackerrank.com/profile/rishp_3) |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" /> | [rishp_3](https://www.geeksforgeeks.org/profile/rishp_3) |
+| <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" /> | [Rishp-3](https://codepen.io/Rishp-3) |
+| <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /> | [User 32493179](https://stackoverflow.com/users/32493179) |
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider"/></div>
+---
 
-## Connect
+## 🔗 Constraints
+
+- ☕ Powered by chai aur code
+- 🧠 Always learning, always building
+- 🤝 Collaborations welcome — let's build something together
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://youtube.com/@rishp3"><img src="https://img.shields.io/badge/YouTube-rishp3-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://instagram.com/rishp_3"><img src="https://img.shields.io/badge/Instagram-rishp__3-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://medium.com/@rishp-3"><img src="https://img.shields.io/badge/Medium-rishp--3-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="mailto:rp6229553@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Runtime-0_ms_·_Beats_100%25-00B8A3?style=for-the-badge&labelColor=282828" />
+
+**⭐ Thanks for stopping by!**
 
 </div>
-
-<div align="center"><sub>Footer line — e.g. "This design is from github-profile-designs".</sub></div>
