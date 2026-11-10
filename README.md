@@ -110,6 +110,4 @@ See [`LICENSE`](./LICENSE).
 
 <div align="center">
 
-☕ Powered by chai aur code
-
 </div>
